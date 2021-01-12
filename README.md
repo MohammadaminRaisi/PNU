@@ -4,7 +4,7 @@ GitHub  [لینک گیت هاب] (https://github.com/MohammadaminRaisi)
 
 PNU_3991_AR  [لینک ریپازیتوری] (https://github.com/MohammadaminRaisi/PNU_3991_AR)
 
-انگیزه نامه یا SOP  [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/SOP)
+ SOP انگیزه نامه یا [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/SOP)
 
 پروژه لاتک  [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Latex%20Project)
 
