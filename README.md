@@ -4,9 +4,9 @@ GitHub  [لینک گیت هاب](https://github.com/MohammadaminRaisi)
 
 PNU_3991_AR  [لینک ریپازیتوری](https://github.com/MohammadaminRaisi/PNU_3991_AR)
 
-SOP [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/SOP)
+SOP [لینک فایل](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/SOP)
 
-Resume [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Resume)
+Resume [لینک فایل](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Resume)
 
 پروژه لاتک  [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Latex%20Project)
 
