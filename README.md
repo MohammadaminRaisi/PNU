@@ -6,6 +6,8 @@ PNU_3991_AR  [لینک ریپازیتوری](https://github.com/MohammadaminRais
 
 SOP [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/SOP)
 
+Resume [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Resume)
+
 پروژه لاتک  [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Latex%20Project)
 
 پروژه بیمر  [لینک فایل ها](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Latex%20Project)
