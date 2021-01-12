@@ -1,6 +1,6 @@
 # PNU_3991_AR
 
-PNU_3991_AR  [لینک ریپازیتوری] (https://www.aparat.com/v/4BSGl)
+PNU_3991_AR  [لینک ریپازیتوری] (https://github.com/MohammadaminRaisi/PNU_3991_AR)
 
 ارائه فصل سوم در آپارت  [لینک ویدئو](https://www.aparat.com/v/4BSGl)
 
