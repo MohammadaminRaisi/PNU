@@ -1,2 +1,2 @@
 # PNU_3991_AR
-certificate
+This site was built using [GitHub Pages](https://pages.github.com/).
