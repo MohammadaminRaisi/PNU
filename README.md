@@ -3,4 +3,4 @@
 
 ارائه دو مثال از فصل سوم با بیمر  [لینک ویدئو](https://www.aparat.com/v/Ji6kz)
 
-مدرک جاوا اسکریپت  [لینک مدرک](https://www.aparat.com/v/4BSGl)
+مدرک جاوا اسکریپت  [لینک مدرک](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/JavaScript)
