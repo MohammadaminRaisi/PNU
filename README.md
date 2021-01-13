@@ -21,7 +21,7 @@ Resume [لینک فایل](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree
 
 
 
-Groups :
+Group :
 
  <a name="G-L07"></a>
 
