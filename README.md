@@ -55,7 +55,8 @@ Group :
         1. [_LMT02-33_فاطمه ستاری آذر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/33_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B3%D8%AA%D8%A7%D8%B1%D9%8A%20%D8%A7%D8%B0%D8%B1)
 <a name="G-L08"></a>
 
-| Time / Day  | Saturday  | Sunday | Monday | Tuesday | Wednesday | Thursday |
-| 8-10   | 
-| 10-12  | 
-| 12-14  |  [نظریه زبان ها و ماشین ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01)  |
+ Time | #Saturday | #Sunday | #Monday | #Tuesday | #Wednesday | #Thursday | #Friday 
+ --- | --- | --- | --- |--- |--- |--- |--- 
+ 8-10   | | | | | | | |
+ 10-12  | | | | | | | |
+ 12-14  |  [نظریه زبان ها و ماشین ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01)  | | | | | | 
