@@ -16,9 +16,11 @@
 ## کارهای میان ترم✏
 - [حساب گیت هاب من](https://github.com/MohammadaminRaisi)
 - [PNU_3991_AR](https://github.com/MohammadaminRaisi/PNU_3991_AR)
-- [فرم رزومه و سوابق کاری من](link) 
-- [فرم انگیزه نامه من](link)
-- [مدرک جاوا اسکریپ من](link)
+- [دایرکتوری درس](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+- [فرم رزومه و سوابق کاری من](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Resume) 
+- [فرم انگیزه نامه من](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/SOP)
+- [مدرک جاوا اسکریپ من](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/JavaScript)
+- [Patchwork](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Patchwork)
 ------------------
 ## فرم های ارزیابی من📊📈
 
