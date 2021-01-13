@@ -37,11 +37,13 @@
 ------------------
 
 ## کارهای پایان ترم📖📗📘📕
-- [لاتک من](link)
+- [پروژه لاتک](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Latex%20Project)
 
-- [فیلم ارائه پاورپوینت من](link)
+- [ویدئو ارائه فصل سوم نظریه زبان ها و ماشین ها](https://www.aparat.com/v/4BSGl)
 
+- [پروژه بیمر](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Beamer%20Project)
 
+- [ویدئو ارائه دو مثال از فصل سوم با بیمر](https://www.aparat.com/v/Ji6kz)
 
 ------------------
 
