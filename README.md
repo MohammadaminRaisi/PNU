@@ -54,7 +54,7 @@ Group :
 
  Table
 
- Time | #Saturday | #Sunday | #Monday | #Tuesday | #Wednesday | #Thursday | #Friday 
+ Time / Day | #Saturday | #Sunday | #Monday | #Tuesday | #Wednesday | #Thursday | #Friday 
  --- | --- | --- | --- |--- |--- |--- |--- 
  8-10   | | | | | | | |
  10-12  | | | | | | | |
