@@ -18,9 +18,6 @@ Resume [لینک فایل](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree
 
 مدرک جاوا اسکریپت  [لینک مدرک](https://github.com/MohammadaminRaisi/PNU_3991_AR/tree/main/JavaScript)
 
-
-
-
 Group :
 
  <a name="G-L07"></a>
@@ -54,6 +51,8 @@ Group :
 	1. [_LMT02-20_فاطمه دوستانی](https://github.com/AliRazavi-edu/PNU_3991/blob/master/_BSc/ResearchAndPresentationMethods/1322010_02/20_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%8A/readme.md)
         1. [_LMT02-33_فاطمه ستاری آذر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/33_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B3%D8%AA%D8%A7%D8%B1%D9%8A%20%D8%A7%D8%B0%D8%B1)
 <a name="G-L08"></a>
+
+ Table
 
  Time | #Saturday | #Sunday | #Monday | #Tuesday | #Wednesday | #Thursday | #Friday 
  --- | --- | --- | --- |--- |--- |--- |--- 
