@@ -25,11 +25,11 @@
 ## فرم های ارزیابی من📊📈
 
 ## فرم های ارزیابی عمومی فعالیت مشترک همه دانشجویان
-- [ارزیابی رزومه و انگیزه نامه](link)
-- [خلاصه ارزیابی بخش عمومی](link)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/MohammadaminRaisi/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/XX_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/MohammadaminRaisi/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ## فرم ارزیابی درس کارشناسی نظریه زبان
-- [فایل ارزیابی من](link)
+- [فایل ارزیابی من](https://github.com/MohammadaminRaisi/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 
 
