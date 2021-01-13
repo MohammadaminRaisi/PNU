@@ -6,16 +6,16 @@
 </h4>
 <hr>
 <h2 dir="rtl" style="color:red;font-family:tahoma; font-size:4em;">مشخصات من، دانشجو  درس نظریه زبان دکتر رضوی📝</h2>
-<p dir="rtl">نام : </p>
-<p dir="rtl">نام خانوادگی : </p>
-<p dir="rtl">شماره دانشجویی : </p>
+<p dir="rtl">نام : محمدامین </p>
+<p dir="rtl">نام خانوادگی : رئیسی</p>
+<p dir="rtl">شماره دانشجویی : 970087192</p>
 <hr>
 
 # پروژه و کارهای کلاسی درس نظریه زبان و ماشین💼📐📏
 
 ## کارهای میان ترم✏
-- [حساب گیت هاب من](link)
-- [PNU_3991_AR](link)
+- [حساب گیت هاب من](https://github.com/MohammadaminRaisi)
+- [PNU_3991_AR](https://github.com/MohammadaminRaisi/PNU_3991_AR)
 - [فرم رزومه و سوابق کاری من](link) 
 - [فرم انگیزه نامه من](link)
 - [مدرک جاوا اسکریپ من](link)
@@ -97,7 +97,7 @@
   <tr>
     <th ></th>
     <th ><a </a></th>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines" >نظريه زبانهاوماشين ها 01-1115157</a></th>
+    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01" >نظريه زبانهاوماشين ها 01-1115157</a></th>
     <th></th>
     <th></th>
     <th>شنبه</th>
